@@ -1,0 +1,29 @@
+.app {
+  padding: 30px;
+  background-color: rgb(191, 210, 239);
+}
+
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+}
+
+.clock {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 24px;
+}
+
+.date {
+  position: absolute;
+  top: 40px; 
+  left: 10px;
+  font-size: 24px;
+}
+
+.submit-button {
+  margin-top: 15px; 
+}
